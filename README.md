@@ -81,4 +81,4 @@ https://x.com/aidialog
 
 aidialog@mail.ru
 
-![108](108.png)
+![108](img/108.png108.png)

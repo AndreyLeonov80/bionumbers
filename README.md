@@ -1,10 +1,3 @@
-# bionumbers
-science challenge
-
-Here is a **clean, high-impact LinkedIn + X (Twitter) post** you can publish:
-
----
-
 ## 🧬 Introducing Bionumbers — a database of real-world biological numbers
 
 What if biology wasn’t just descriptions…
@@ -82,17 +75,10 @@ That shift is what makes systems like Bionum Engine possible.
 
 👉 [https://github.com/AndreyLeonov80/bionumbers](https://github.com/AndreyLeonov80/bionumbers)
 
----
-
-If you want, I can also:
-
-* turn this into a **viral X thread (10–12 tweets)**
-* or a **more aggressive startup-style pitch post**
-* or a **technical breakdown for engineers / ML researchers**
-
-
 https://t.me/aidialog
 
 https://x.com/aidialog
+
+aidialog@mail.ru
 
 ![108](108.png)

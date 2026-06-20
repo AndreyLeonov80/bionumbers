@@ -1,3 +1,7 @@
+| | |
+| :---: | :---: |
+| ![108](img/108.png) | ![biodb](img/pr/biodb.png) |
+
 ## 🧬 Introducing Bionumbers — a database of real-world biological numbers
 
 What if biology wasn’t just descriptions…
@@ -81,8 +85,5 @@ https://x.com/aidialog
 
 aidialog@mail.ru
 
-| | |
-| :---: | :---: |
-| ![108](img/108.png) | ![biodb](img/pr/biodb.png) |
 
 

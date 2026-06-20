@@ -82,5 +82,5 @@ https://x.com/aidialog
 aidialog@mail.ru
 
 ![108](img/108.png)
-![108](img/108.png)
+![biodb](img/pr/biodb.png)
 

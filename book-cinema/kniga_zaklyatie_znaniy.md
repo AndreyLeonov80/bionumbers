@@ -141,7 +141,7 @@ https://github.com/AndreyLeonov80/bionumbers/tree/main/img/blueprints
 
 ### Глава 11. О том, как устроено тело человека
 
-![gen](../img/paintings/04.png)
+![gen2](../img/paintings/04.png)
 
 Тело человека — это храм. Не в переносном смысле — в прямом. Каждая клетка — это комната, каждый орган — это алтарь, каждая кость — это опора.
 

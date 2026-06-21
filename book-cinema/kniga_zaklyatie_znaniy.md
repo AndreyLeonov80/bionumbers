@@ -4,9 +4,7 @@
 
 ![freska](../img/pr/1781966606.png)
 
-![kartana](../img/pr/Богиня справедливости Картана (mini).png)
-
-
+![kartana](../img/pr/kartana.png)
 
 ---
 

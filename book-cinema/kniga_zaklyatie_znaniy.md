@@ -4,6 +4,8 @@
 
 ![kartana](../img/pr/kartana.png)
 
+https://youtu.be/bNrTHCpfKwM?si=Bwbyx5ZdbUwPIPYG
+
 https://www.youtube.com/watch?v=92lOnb5Frh8
 
 ---

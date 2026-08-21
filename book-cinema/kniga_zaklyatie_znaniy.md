@@ -4,6 +4,8 @@
 
 ![kartana](../img/pr/kartana.png)
 
+https://www.youtube.com/watch?v=92lOnb5Frh8
+
 ---
 
 ## Предисловие
